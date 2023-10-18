@@ -15,5 +15,5 @@ console.log(totalDebts);
 // Adding it all together
 netWorth = totalAssets - totalDebts;
 
-//
+// Final output 
 console.log("Your net worth is " + netWorth);
